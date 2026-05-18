@@ -53,7 +53,7 @@ Figma로 설계한 화면을 HTML, CSS, JavaScript로 직접 구현하는 경험
 - 브랜드 무드에 맞춘 컬러와 콘텐츠 전략 설계
 
 ---
-
+## Design Process
 
 ```mermaid
 flowchart TD
