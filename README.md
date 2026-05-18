@@ -54,6 +54,19 @@ Figma로 설계한 화면을 HTML, CSS, JavaScript로 직접 구현하는 경험
 
 ---
 
+
+```mermaid
+flowchart TD
+    A["01. 문제 발견<br/>기존 서비스 분석"] --> B["02. 사용자 이해<br/>페르소나 · 니즈 정리"]
+    B --> C["03. 구조 설계<br/>IA · User Flow 구성"]
+    C --> D["04. 화면 설계<br/>Wireframe 제작"]
+    D --> E["05. UI 디자인<br/>Visual Design · Component"]
+    E --> F["06. 프로토타입<br/>Interaction 연결"]
+    F --> G["07. 검토 및 개선<br/>Feedback 반영"]
+    G --> H["08. 구현<br/>HTML · CSS · JavaScript"]
+
+    H -. 반복 개선 .-> G
+
 ## Contact
 
 Email. lejin0212@gmail.com
