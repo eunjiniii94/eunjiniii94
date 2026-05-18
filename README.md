@@ -55,6 +55,7 @@ Figma로 설계한 화면을 HTML, CSS, JavaScript로 직접 구현하는 경험
 ---
 
 
+flowchart TD
     A["01. 문제 발견<br/>기존 서비스 분석"] --> B["02. 사용자 이해<br/>페르소나 · 니즈 정리"]
     B --> C["03. 구조 설계<br/>IA · User Flow 구성"]
     C --> D["04. 화면 설계<br/>Wireframe 제작"]
